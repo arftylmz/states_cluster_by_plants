@@ -1,0 +1,69 @@
+Bitkiler	abies	abutilon	acalypha	abronia	acacia	acaena	abrus	abildgaardia
+North Carolina	1	1	1	0	0	0	0	0	
+Alaska	1	0	0	0	0	0	0	0	
+California	1	1	1	1	1	1	0	0	
+Oregon	1	1	0	1	1	1	0	0	
+Washington	1	1	0	1	0	0	0	0	
+British Columbia	1	1	0	1	0	0	0	0	
+Connecticut	1	1	1	0	0	0	0	0	
+Indiana	1	1	1	0	0	0	0	0	
+Iowa	1	1	1	0	0	0	0	0	
+Maine	1	1	1	0	0	0	0	0	
+Maryland	1	1	1	0	1	0	0	0	
+Massachusetts	1	1	1	0	0	0	0	0	
+Michigan	1	1	1	0	0	0	0	0	
+Minnesota	1	1	1	0	0	0	0	0	
+New Hampshire	1	1	1	0	0	0	0	0	
+New York	1	1	1	0	0	0	0	0	
+Ohio	1	1	1	0	0	0	0	0	
+Pennsylvania	1	1	1	0	0	0	0	0	
+Rhode Island	1	1	1	0	0	0	0	0	
+Vermont	1	1	1	0	0	0	0	0	
+Virginia	1	1	1	0	1	0	0	0	
+West Virginia	1	1	1	0	0	0	0	0	
+Wisconsin	1	1	1	0	0	0	0	0	
+Alabama	1	1	0	0	0	0	0	0	
+Labrador	1	0	0	0	0	0	0	0	
+Manitoba	1	1	0	0	0	0	0	0	
+New Brunswick	1	1	1	0	0	0	0	0	
+Newfoundland	1	0	0	0	0	0	0	0	
+Nova Scotia	1	1	1	0	0	0	0	0	
+Nunavut	1	0	0	0	0	0	0	0	
+Ontario	1	1	1	0	0	0	0	0	
+Prince Edward Island	1	1	0	0	0	0	0	0	
+Quebec	1	1	1	0	0	0	0	0	
+Saskatchewan	1	1	0	0	0	0	0	0	
+St. Pierre and Miquelon (France)	1	0	0	0	0	0	0	0	
+Arizona	1	1	1	1	1	0	0	0	
+Colorado	1	1	0	1	0	0	0	0	
+Idaho	1	1	0	1	0	0	0	0	
+Nevada	1	1	0	1	1	0	0	0	
+New Mexico	1	1	1	1	1	0	0	0	
+Utah	1	1	0	1	1	0	0	0	
+Wyoming	1	1	0	1	0	0	0	0	
+Georgia	1	1	1	0	1	0	1	0	
+Tennessee	1	1	1	0	0	0	0	0	
+Montana	1	1	0	1	0	0	0	0	
+Northwest Territories	1	0	0	0	0	0	0	0	
+Yukon	1	0	0	0	0	0	0	0	
+Florida	0	1	1	0	1	0	1	1	
+Puerto Rico	0	1	1	0	1	0	1	1	
+Virgin Islands	0	1	1	0	1	0	1	1	
+Kansas	0	1	1	1	1	0	0	0	
+Nebraska	0	1	1	1	0	0	0	0	
+North Dakota	0	1	1	1	0	0	0	0	
+Oklahoma	0	1	1	1	1	0	0	0	
+South Dakota	0	1	1	1	0	0	0	0	
+Texas	0	1	1	1	1	0	0	0	
+Alberta	0	1	1	0	1	0	1	0	
+Arkansas	0	1	1	0	1	0	1	0	
+Hawaii	0	1	0	0	1	1	1	0	
+Delaware	0	1	1	0	0	0	0	0	
+District of Columbia	0	1	1	0	0	0	0	0	
+Illinois	0	1	1	0	0	0	0	0	
+Kentucky	0	1	1	0	0	0	0	0	
+Louisiana	0	1	1	0	1	0	0	0	
+Mississippi	0	1	1	0	1	0	0	0	
+Missouri	0	1	1	0	1	0	0	0	
+New Jersey	0	1	1	0	0	0	0	0	
+South Carolina	0	1	1	0	0	0	0	0	
